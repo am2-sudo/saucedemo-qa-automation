@@ -81,6 +81,9 @@ No defects were identified during this test cycle.
 All executed test cases passed successfully.
 
 ---
+## Screenshots
+
+Screenshots demonstrating the executed test cases are available 
 
 ## Testing Environment
 
