@@ -97,11 +97,12 @@ Screenshots demonstrating the executed test cases are available
 ## Project Structure
 
 ```text
-QA-Testing-Project/
+saucedemo-qa-automation/
 │
 ├── README.md
 ├── requirements.md
-├── test-cases.md
+├── test-cases/
 ├── test-execution.md
 ├── test-summary.md
-└── bug-reports.md
+├── bug-reports.md
+└── screenshots/
